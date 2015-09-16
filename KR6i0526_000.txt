@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說演道俗業經
+#+DATE: 2015-08-30 20:21:48.493766
+#+PROPERTY: JUAN 0
